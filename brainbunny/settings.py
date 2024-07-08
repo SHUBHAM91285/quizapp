@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-62h)55ns3s_ck#d@tn1*-dqq1+p54(-ii8s9+-jskq*+0dmhw!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quizapp-bd0g.onrender.com', 'localhost']
 
 
 # Application definition
